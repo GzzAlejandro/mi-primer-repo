@@ -1,2 +1,2 @@
 "# Proyecto de Prueba git" 
-"Aprendiendo los comandos b sicos de control de versiones." 
+"Aprendiendo los comandos basicos de control de versiones." 
